@@ -1,0 +1,38 @@
+<div class="border rounded">
+  <a href="#">
+    <img src="assets/images/topImage.png" class="img-fluid w-100" />
+  </a>
+</div>
+<hr />
+<div class="row w-100 mt-4 h-5">
+  <div class="col-lg-6 col-sm-12">
+    <img
+      src="{{topClass.frontImage}}"
+      class="img-fluid w-100 rounded"
+      alt="Responsive image"
+    />
+  </div>
+  <div class="col-lg-6 shadow">
+    <h4>{{topClass.title}}</h4>
+    <div class="row">
+      <div class="col-2 cl-sm-12">
+        <img
+          src="{{topClass.profileImg}}"
+          class="rounded-circle"
+          width="90%"
+          height="90%"
+        />
+      </div>
+      <div class="col-10">
+        <p class="m-0">{{topClass.teacherName}}</p>
+        <p class="m-0">
+          <small>{{topClass.category}}</small>
+        </p>
+        <p class="m-0">
+          <small>{{topClass.students}} students</small>
+        </p>
+      </div>
+    </div>
+    <p class="mt-4">{{topClass.time}}</p>
+  </div>
+</div>

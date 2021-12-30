@@ -1,0 +1,30 @@
+[
+  {
+    "title": "CREATE",
+    "buttons": [
+      "Animation",
+      "Creative Writing",
+      "Film & Video",
+      "Fine Art",
+      "Graphic Design",
+      "Illustration",
+      "Music",
+      "Photography",
+      "UI/UX Design",
+      "Web Development"
+    ]
+  },
+  {
+    "title": "BUILD",
+    "buttons": [
+      "Business Analytics",
+      "Freelance & Entrepreneurship",
+      "Leadership & Management",
+      "Marketing"
+    ]
+  },
+  {
+    "title": "THRIVE",
+    "buttons": ["LifeStyle", "Productivity"]
+  }
+]

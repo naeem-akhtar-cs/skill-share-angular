@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Featured Classes",
+    "classes": [
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/8953537a388cd5898903d7c1bcfd0667/original",
+        "students": "18,683",
+        "time": "37m",
+        "title": "Do Things, Tell People: The Power of Personal Branding",
+        "teacherName": "Hamza Khan"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/48240920de84ba36e100ace3ed3cef67/original",
+        "students": "39",
+        "time": "1h 17m",
+        "title": "Writer's Block: A Practical Guide to Beat it.",
+        "teacherName": "Aram Atkinson"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/f54db95f431888d7a1b05fff091af9f6/original",
+        "students": "876",
+        "time": "25m",
+        "title": "Make Your Creative Space: A Simple & Inspiring Guide",
+        "teacherName": "Mimi Chao"
+      }
+    ]
+  },
+  {
+    "title": "Popular Classes",
+    "classes": [
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/47230a8b326958092ad8898b0dae8c45/original",
+        "students": "59,803",
+        "time": "1h 55m",
+        "title": "Productivity Masterclass - Principles and Tools to Boost Your Productivity",
+        "teacherName": "Ali Abdaal"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/0adde55e00f36d8955ee339fcea3a524/original",
+        "students": "37,772",
+        "time": "1h 14m",
+        "title": "YouTube Success: Script, Shoot & Edit with MKBHD",
+        "teacherName": "Marques Brownlee"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/37ec54782bd70d390eaa22b2c05846ba/original",
+        "students": "31,965",
+        "time": "1h",
+        "title": "Procreate for Beginners: Learn the Basics & Sell Your Artwork",
+        "teacherName": "Cat Coquillette"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/d4e4af38dae920ea95ac7b709a565135/original",
+        "students": "76,844",
+        "time": "6h 52m",
+        "title": "Adobe Illustrator CC – Essentials Training",
+        "teacherName": "Daniel Scott"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/d4e4af38dae920ea95ac7b709a565135/original",
+        "students": "89,015",
+        "time": "3h 22m",
+        "title": "Video Editing with Adobe Premiere Pro for Beginners",
+        "teacherName": "Jordy Vandeput"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/03dd04961a47878b0b459c84adeab945/original",
+        "students": "117,918",
+        "time": "56m",
+        "title": "iPhone Photography: How to Take Pro Photos On Your iPhone",
+        "teacherName": "Dale McManus"
+      }
+    ]
+  },
+  {
+    "title": "Trending Classes",
+    "classes": [
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/a328f786d77c9b5a3607fdb61354486b/original",
+        "students": "41,026",
+        "time": "1h 13m",
+        "title": "Find Your Style: Five Exercises to Unlock Your Creative Identity",
+        "teacherName": "Andy J. Pizza"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/4ada6b4560fe12d60f68bca30294f36a/original",
+        "students": "21,612",
+        "time": "40m",
+        "title": "Art Journaling for Self-Care: 3 Exercises for Reflection and Growth",
+        "teacherName": "Amanda Rach Lee"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/2a623a6263ec4d5326d5b526c36292db/original",
+        "students": "17,677",
+        "time": "43m",
+        "title": "Start Drawing: 3 Fun, Freeing Exercises to Spark Your Creativity",
+        "teacherName": "Carly Kuhn"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/ddc2c953a2fb5cb7685b90c603cc94d4/original",
+        "students": "19,906",
+        "time": "48m",
+        "title": "Start Your Creative Career: Build a Sharp, Smart Online Presence",
+        "teacherName": "Sonja Rasula"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/7fdb9e8af7d723e2b412f6366e7e1d5c/original",
+        "students": "17,318",
+        "time": "50m",
+        "title": "Plants at Home: Uplift Your Spirit & Your Space",
+        "teacherName": "Christopher Griffin"
+      },
+      {
+        "img": "https://static.skillshare.com/cdn-cgi/image/width=448,quality=85,format=auto/uploads/video/thumbnails/68aff0a82ffb2acc25a6253dbddd81c6/original",
+        "students": "8,665",
+        "time": "1h 22m",
+        "title": "Holistic Interior Design: Transform Your Personal Space for Well-Being",
+        "teacherName": "Clear Studios"
+      }
+    ]
+  }
+]

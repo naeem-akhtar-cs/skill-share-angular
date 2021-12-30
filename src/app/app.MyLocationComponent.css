@@ -1,0 +1,22 @@
+#mapid {
+  height: 500px;
+  width: 900px;
+}
+.pad2 {
+  padding-top: 50px;
+}
+a:link,
+a:visited {
+  background-color: #bdb9b9;
+  color: rgb(7, 7, 7);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+
+  border-radius: 5px;
+}
+
+a:hover,
+a:active {
+  background-color: rgb(255, 55, 55);
+}

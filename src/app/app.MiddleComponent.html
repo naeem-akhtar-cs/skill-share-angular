@@ -1,0 +1,53 @@
+<div>
+  <div>
+    <div *ngFor="let classesSet of classes;">
+      <div>
+        <div class="row mt-4">
+          <div class="col-lg-10 col-sm-6 col-xs-6">
+            <h2>{{classesSet.title}}</h2>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-xs-6">
+            <button type="button" class="btn btn-outline-dark">View All</button>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div
+            class="col-lg-4 col-sm-12 mt-4"
+            *ngFor="let element of classesSet.classes;"
+          >
+            <div class="border rounded shadow">
+              <img src="{{element.img}}" class="w-100 rounded" />
+              <div class="p-2">
+                <div class="row">
+                  <div class="col-9">
+                    <p>{{element.students}} students</p>
+                  </div>
+                  <div class="col-3">
+                    <p>{{element.time}}</p>
+                  </div>
+                </div>
+                <div class="w-100">
+                  <h6>{{element.title}}</h6>
+                </div>
+                <div class="row mt-4">
+                  <div class="col-10">
+                    <p>{{element.teacherName}}</p>
+                  </div>
+                  <div class="col-2">
+                    <a href="#" class="text-decoration-none">
+                      <i class="fa fa-bookmark-o"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center mt-4">
+    <button type="button" class="btn btn-outline-dark">See All</button>
+  </div>
+</div>

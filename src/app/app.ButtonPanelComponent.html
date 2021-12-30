@@ -1,0 +1,16 @@
+<div>
+  <div class="mt-4">
+    <button type="button" class="btn btn-dark btn-block w-100">
+      All Classes
+    </button>
+  </div>
+  <div *ngFor="let buttonSet of panelData;">
+    <div class="mt-4">
+      <h5>{{buttonSet.title}}</h5>
+      <div *ngFor="let buttons of buttonSet.buttons">
+        <a class="btn btn-light w-100" href="#" role="button"> {{buttons}} </a>
+      </div>
+      <hr />
+    </div>
+  </div>
+</div>
